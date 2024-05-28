@@ -1,0 +1,13 @@
+{
+  "shell_port": 49813,
+  "iopub_port": 38201,
+  "stdin_port": 56833,
+  "control_port": 56225,
+  "hb_port": 40367,
+  "ip": "127.0.0.1",
+  "key": "63d1d09e-457b54fb1b50874366b97f66",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Kafka-Producer-for-project.ipynb"
+}
